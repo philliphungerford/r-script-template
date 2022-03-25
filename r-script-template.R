@@ -55,7 +55,7 @@ fLoadPackages <- function(...) {
 fExampleFunction() <- function(){
     
     #'''
-	# Purpose:
+    # Purpose:
 	# Inputs:
 	# Outputs:
 	# Example: 
